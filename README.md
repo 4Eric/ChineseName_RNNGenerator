@@ -1,0 +1,2 @@
+# ChineseName_RNNGenerator
+ChineseNameGenerator_RNN
